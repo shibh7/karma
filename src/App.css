@@ -36,3 +36,48 @@
     transform: rotate(360deg);
   }
 }
+
+.pregForm{
+  align-self: center;
+  text-align: center;
+  align-content: center;
+  background-color: aquamarine;
+  max-width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding: 2em;
+}
+
+.pregGreetings{
+  align-self: center;
+  text-align: center;
+  align-content: center;
+  max-width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding: 2em;
+}
+
+.pregAdvert{
+  border-style: solid;
+  align-self: center;
+  text-align: center;
+  align-content: center;
+  margin-top: 1em;
+  max-width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 2em;
+}
+
+.pregTitle{
+  margin-left: 5%;
+}
+
+.inputFields {
+  text-align: left;
+}
+
+/* .credentialWindows{
+  max-width: 400px;
+} */
